@@ -24,17 +24,19 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-![01](https://github.com/user-attachments/assets/165c67fe-e8f2-4823-88ab-27acdecd1ef6)
-![02](https://github.com/user-attachments/assets/7d278147-3ef1-4ee9-9d5e-e52e54b04f2f)
-![03](https://github.com/user-attachments/assets/1f4bd29a-ae98-496e-8915-d34c5c243515)
-![04](https://github.com/user-attachments/assets/a9cc444a-80bc-4ab4-b5e2-68cc829e66db)
-![05](https://github.com/user-attachments/assets/e8660862-cd7e-4046-ba7d-e60c70776e81)
-![06](https://github.com/user-attachments/assets/c9085a5c-3490-4d4e-96b1-18c021b0fd82)
-![07](https://github.com/user-attachments/assets/fd1a89e4-7b92-42a5-a203-569a8a32240b)
-![08](https://github.com/user-attachments/assets/333cb1f1-4854-46ea-b4d3-8bf093f68aaf)
-![09](https://github.com/user-attachments/assets/4bcc68ff-f12c-4345-bb31-61966e6ea2af)
-![010](https://github.com/user-attachments/assets/e55e4122-c58f-4bb1-b759-ab841052c9b7)
-![011](https://github.com/user-attachments/assets/355d5423-b0a6-4033-9836-89ed8a5a3b6f)
+![1](https://github.com/user-attachments/assets/496765d3-a505-4c5d-8726-32e37ba9d1f6)
+![2](https://github.com/user-attachments/assets/46fb6d8d-7160-41ce-9c8d-94dd5e072c04)
+![3](https://github.com/user-attachments/assets/24d74c68-8be4-4025-ae77-71c4ebd74165)
+![4](https://github.com/user-attachments/assets/94ac0858-ed81-42bd-a3b6-1d62a2de67ef)
+![5](https://github.com/user-attachments/assets/010c68c4-0a37-4207-8645-6e7f9da8ce80)
+![6](https://github.com/user-attachments/assets/e20351a2-bc80-4501-b8af-7d928a925b3f)
+![7](https://github.com/user-attachments/assets/e6b35b2c-3612-4683-a992-c86682b346f4)
+![8](https://github.com/user-attachments/assets/47bef0f3-abfe-481b-b547-b2f50b6813ea)
+![9](https://github.com/user-attachments/assets/31540320-e804-4318-a194-d4002e19ef2e)
+![10](https://github.com/user-attachments/assets/3ee1ecf8-7669-4a09-8e23-91a9dd751e46)
+![11](https://github.com/user-attachments/assets/b17b56a5-6c74-4d01-ba8e-05ed89141b8a)
+![12](https://github.com/user-attachments/assets/005b5c08-d239-4177-9e3c-8c810c492fa1)
+
 
 # RESULT:
       The given data and perform Feature Scaling and Feature Selection process  
